@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @azandiuw
-- 👀 I’m interested in stealing code...
-- 🌱 I’m currently learning how to steal code...
-- 💞️ I’m looking to collaborate on stealing code...
-- 📫 How to reach me? my stolen code...
-- THIS IS SATIRE. I DO NOT STEAL CODE
+- 👋 Hi, I’m @notasianrizz
+
+
 
 <!---
-azandiuw/azandiuw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+notasianrizz/notasianrizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

@@ -15,7 +15,7 @@ high school senior in charlotte, nc. building things on the web (proud claude ma
 
 ### off the clock
 
-producing music in fl studio (shure mv7+, adam t8v's) · running a minecraft network @ embersmp.org · 
+producing music in fl studio (shure mv7+, adam t8v's) · 
 
 (breaking) my pc:
 AMD Ryzen 9 9950X3D | 
